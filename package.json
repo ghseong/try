@@ -1,0 +1,22 @@
+{
+  "name": "try-for-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghseong/try.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghseong/try/issues"
+  },
+  "homepage": "https://github.com/ghseong/try#readme"
+}
